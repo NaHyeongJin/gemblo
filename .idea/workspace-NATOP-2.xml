@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70cc68c4-8a85-4c44-8e71-ee54826b844f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gemblo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Sd6NviLZt2iGtcKwjuqb9SMu5E" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kr.gemblo.extraScreens" />
+      <recent name="kr.gemblo.enums.gameplay" />
+      <recent name="kr.gemblo.utils" />
+      <recent name="kr.gemblo.gridNodes" />
+      <recent name="kr.gemblo.gameBoard" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gudwl\OneDrive\Documents\Idea\gemblo\src\main\java\resources\kr\gemblo\images" />
+      <recent name="C:\Users\gudwl\OneDrive\Documents\Idea\gemblo\src\main\java\resources\kr\gemblo" />
+      <recent name="C:\Users\gudwl\OneDrive\Documents\Idea\gemblo\src\main\java\resources\kr\gemblo\images\Menu" />
+      <recent name="C:\Users\gudwl\OneDrive\Documents\Idea\gemblo\src\main\java\kr\gemblo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GembloApp">
+    <configuration name="GembloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.gemblo.GembloApp" />
+      <module name="gemblo" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.gemblo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kr.gemblo.gridNodes in gemblo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gemblo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.gemblo.gridNodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kr.gemblo.gridNodes" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kr.gemblo.images in gemblo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gemblo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.gemblo.images.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kr.gemblo.images" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GembloApp" />
+        <item itemvalue="JUnit.kr.gemblo.images in gemblo" />
+        <item itemvalue="JUnit.kr.gemblo.gridNodes in gemblo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70cc68c4-8a85-4c44-8e71-ee54826b844f" name="Default Changelist" comment="" />
+      <created>1571881088555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571881088555</updated>
+      <workItem from="1571881092859" duration="10399000" />
+      <workItem from="1572408994409" duration="9912000" />
+      <workItem from="1572567380774" duration="1234000" />
+      <workItem from="1572575254038" duration="11383000" />
+      <workItem from="1573085246578" duration="2399000" />
+      <workItem from="1573178943190" duration="27831000" />
+      <workItem from="1573874280840" duration="6458000" />
+      <workItem from="1573917948120" duration="657000" />
+      <workItem from="1574063294250" duration="599000" />
+      <workItem from="1574128936026" duration="2853000" />
+      <workItem from="1574148776453" duration="2233000" />
+      <workItem from="1574207905913" duration="5469000" />
+      <workItem from="1574293814586" duration="9546000" />
+      <workItem from="1574304445340" duration="784000" />
+      <workItem from="1574334036001" duration="455000" />
+      <workItem from="1574388424891" duration="6470000" />
+      <workItem from="1574509804522" duration="1134000" />
+      <workItem from="1574515912419" duration="5447000" />
+      <workItem from="1574597784610" duration="3463000" />
+      <workItem from="1574605257109" duration="1255000" />
+      <workItem from="1574654637636" duration="5744000" />
+      <workItem from="1574667877604" duration="11492000" />
+      <workItem from="1574753110467" duration="5363000" />
+      <workItem from="1574824478004" duration="6639000" />
+      <workItem from="1574838639812" duration="2017000" />
+      <workItem from="1574907699177" duration="2921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

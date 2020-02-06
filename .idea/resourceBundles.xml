@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application_en_CA.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application_ja_JP.properties" />
+    <file url="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application_ko_KR.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application_ES.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application_en_CA.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application_ja_JP.properties" />
+      <file value="file://$PROJECT_DIR$/src/main/java/resources/kr/gemblo/application_ko_KR.properties" />
+      <base-name>application</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>

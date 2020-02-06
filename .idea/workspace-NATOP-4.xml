@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="gemblo" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70cc68c4-8a85-4c44-8e71-ee54826b844f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gemblo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1Sd6NviLZt2iGtcKwjuqb9SMu5E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/resources/kr/gemblo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kr.gemblo.extraScreens" />
+      <recent name="kr.gemblo.enums.gameplay" />
+      <recent name="kr.gemblo.utils" />
+      <recent name="kr.gemblo.gridNodes" />
+      <recent name="kr.gemblo.gameBoard" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gudwl\OneDrive\Documents\Idea\gemblo\src\main\java\resources\kr\gemblo\images" />
+      <recent name="C:\Users\gudwl\OneDrive\Documents\Idea\gemblo\src\main\java\resources\kr\gemblo" />
+      <recent name="C:\Users\gudwl\OneDrive\Documents\Idea\gemblo\src\main\java\resources\kr\gemblo\images\Menu" />
+      <recent name="C:\Users\gudwl\OneDrive\Documents\Idea\gemblo\src\main\java\kr\gemblo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn compile" />
+      <command value="mvn package" />
+      <command value="mvn javafx:run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GembloApp">
+    <configuration name="GembloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.gemblo.GembloApp" />
+      <module name="gemblo" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.gemblo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kr.gemblo.gridNodes in gemblo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gemblo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.gemblo.gridNodes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kr.gemblo.gridNodes" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kr.gemblo.images in gemblo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gemblo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.gemblo.images.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kr.gemblo.images" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gemblo-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/gemblo-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.GembloApp" />
+      <item itemvalue="JAR Application.gemblo-1.0-SNAPSHOT.jar" />
+      <item itemvalue="JUnit.kr.gemblo.gridNodes in gemblo" />
+      <item itemvalue="JUnit.kr.gemblo.images in gemblo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GembloApp" />
+        <item itemvalue="JAR Application.gemblo-1.0-SNAPSHOT.jar" />
+        <item itemvalue="JUnit.kr.gemblo.images in gemblo" />
+        <item itemvalue="JUnit.kr.gemblo.gridNodes in gemblo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70cc68c4-8a85-4c44-8e71-ee54826b844f" name="Default Changelist" comment="" />
+      <created>1571881088555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571881088555</updated>
+      <workItem from="1571881092859" duration="10399000" />
+      <workItem from="1572408994409" duration="9912000" />
+      <workItem from="1572567380774" duration="1234000" />
+      <workItem from="1572575254038" duration="11383000" />
+      <workItem from="1573085246578" duration="2399000" />
+      <workItem from="1573178943190" duration="27831000" />
+      <workItem from="1573874280840" duration="6458000" />
+      <workItem from="1573917948120" duration="657000" />
+      <workItem from="1574063294250" duration="599000" />
+      <workItem from="1574128936026" duration="2853000" />
+      <workItem from="1574148776453" duration="2233000" />
+      <workItem from="1574207905913" duration="5469000" />
+      <workItem from="1574293814586" duration="9546000" />
+      <workItem from="1574304445340" duration="784000" />
+      <workItem from="1574334036001" duration="455000" />
+      <workItem from="1574388424891" duration="6470000" />
+      <workItem from="1574509804522" duration="1134000" />
+      <workItem from="1574515912419" duration="5447000" />
+      <workItem from="1574597784610" duration="3463000" />
+      <workItem from="1574605257109" duration="1255000" />
+      <workItem from="1574654637636" duration="5744000" />
+      <workItem from="1574667877604" duration="11492000" />
+      <workItem from="1574753110467" duration="5363000" />
+      <workItem from="1574824478004" duration="6639000" />
+      <workItem from="1574838639812" duration="2017000" />
+      <workItem from="1574907699177" duration="10684000" />
+      <workItem from="1575158343325" duration="2602000" />
+      <workItem from="1575161147656" duration="1285000" />
+      <workItem from="1575162934920" duration="26758000" />
+      <workItem from="1575256959098" duration="593000" />
+      <workItem from="1575271103268" duration="13977000" />
+      <workItem from="1575336786926" duration="1052000" />
+      <workItem from="1575392879384" duration="13253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="250" key="#GembloApp" timestamp="1575284351486">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="605" y="250" key="#GembloApp/0.0.1920.1160@0.0.1920.1160" timestamp="1575284351486" />
+    <state x="552" y="238" key="#Project_Structure" timestamp="1575283938239">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="552" y="238" key="#Project_Structure/0.0.1920.1160@0.0.1920.1160" timestamp="1575283938239" />
+    <state x="414" y="235" width="1092" height="746" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575285821378">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="414" y="235" width="1092" height="746" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1575285821378" />
+    <state x="740" y="313" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1575283142679">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="313" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1575283142679" />
+    <state x="765" y="289" key="#com.intellij.ide.util.MemberChooser" timestamp="1575277979622">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="765" y="289" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1160@0.0.1920.1160" timestamp="1575277979622" />
+    <state x="689" y="363" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1575286615635">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="689" y="363" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1575286615635" />
+    <state x="415" y="180" key="FileChooserDialogImpl" timestamp="1575336873449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="415" y="180" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1575336873449" />
+    <state x="519" y="253" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1575286080068" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom" timestamp="1575512614645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575512614645" />
+    <state width="1493" height="198" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1575504084848" />
+    <state width="1879" height="369" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1575287266144" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center" timestamp="1575512614644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1575512614644" />
+    <state width="1493" height="198" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1575504084847" />
+    <state width="1879" height="369" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1575287266143" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left" timestamp="1575512614644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1575512614644" />
+    <state width="1493" height="198" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1575504084846" />
+    <state width="1879" height="369" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1575287266143" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right" timestamp="1575512614644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1575512614644" />
+    <state width="1493" height="198" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1575504084848" />
+    <state width="1879" height="369" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1575287266143" />
+    <state width="1493" height="233" key="GridCell.Tab.1.bottom" timestamp="1575505229546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="233" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1575505229546" />
+    <state width="1879" height="458" key="GridCell.Tab.1.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1575278746993" />
+    <state width="1493" height="233" key="GridCell.Tab.1.center" timestamp="1575505229546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="233" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1575505229546" />
+    <state width="1879" height="458" key="GridCell.Tab.1.center/0.0.1920.1160@0.0.1920.1160" timestamp="1575278746993" />
+    <state width="1493" height="233" key="GridCell.Tab.1.left" timestamp="1575505229546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="233" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1575505229546" />
+    <state width="1879" height="458" key="GridCell.Tab.1.left/0.0.1920.1160@0.0.1920.1160" timestamp="1575278746993" />
+    <state width="1493" height="233" key="GridCell.Tab.1.right" timestamp="1575505229546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="233" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1575505229546" />
+    <state width="1879" height="458" key="GridCell.Tab.1.right/0.0.1920.1160@0.0.1920.1160" timestamp="1575278746993" />
+    <state x="324" y="0" key="SettingsEditor" timestamp="1575336893988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="324" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1575336893988" />
+    <state x="405" y="104" key="SettingsEditor/0.0.1920.1160@0.0.1920.1160" timestamp="1575286616838" />
+    <state x="491" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1575436916197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="287" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1575436916197" />
+    <state x="614" y="404" key="com.intellij.ide.util.TipDialog/0.0.1920.1160@0.0.1920.1160" timestamp="1575273361534" />
+    <state x="616" y="270" width="672" height="677" key="run.anything.popup" timestamp="1575280116282">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="616" y="270" width="672" height="677" key="run.anything.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1575280116282" />
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup" timestamp="1575283687659">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="623" y="255" width="672" height="678" key="search.everywhere.popup/0.0.1920.1160@0.0.1920.1160" timestamp="1575283687659" />
+  </component>
+</project>
